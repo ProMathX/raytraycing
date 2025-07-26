@@ -17,5 +17,5 @@ cc -o raytracing main.c 'sdl2-config --cflags --libs' -lm
 
 ```
 
-
+![Showcase-Detail](/assets/output-detail.gif)
 ![Showcase](/assets/output.gif)
