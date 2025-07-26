@@ -16,3 +16,6 @@ gcc -o bin/raytracing src/main.c  $(sdl2-config --cflags --libs) -lm
 cc -o raytracing main.c 'sdl2-config --cflags --libs' -lm
 
 ```
+
+
+![Showcase](/assets/output.gif)
